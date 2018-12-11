@@ -40,9 +40,9 @@ jobs:
       codeCoverageTool: 'JaCoCo'
       summaryFileLocation: '**/CodeCoverageReport_PS*.xml'
 
-  - powershell: Copy-Item "SecurityProtocolSetter" $(Build.ArtefactStagingDirectory) -Recurse -Force
+  - powershell: Copy-Item "SecurityProtocolSetter" $(Build.ArtifactStagingDirectory) -Recurse -Force
     displayName: 'Stage module build output'
 
   - task: PublishPipelineArtifact@0
     inputs:
-      targetPath: $(Build.ArtefactStagingDirectory)
+      targetPath: $(Build.ArtifactStagingDirectory)
