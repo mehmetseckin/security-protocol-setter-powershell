@@ -31,6 +31,9 @@ Set-SecurityProtocol Tls11
 # Set security protocol to TLS 1.2
 Set-SecurityProtocol Tls12
 
+# Use the alias
+setsp Tls12
+
 # More details...
 Get-Help Set-SecurityProtocol -Detailed
 ```
