@@ -95,7 +95,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = @('Security', 'TLS', 'SSL', 'ServicePointManager', 'HTTPS', 'REST')
+        Tags = @('Security', 'Protocol', 'TLS', 'Tls11', 'Tls12', 'SSL', 'ServicePointManager', 'HTTPS', 'REST')
 
         # A URL to the license for this module.
         LicenseUri = 'https://github.com/mehmetseckin/security-protocol-setter-powershell/LICENSE'
