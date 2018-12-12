@@ -98,7 +98,7 @@ PrivateData = @{
         Tags = @('Security', 'Protocol', 'TLS', 'Tls11', 'Tls12', 'SSL', 'ServicePointManager', 'HTTPS', 'REST')
 
         # A URL to the license for this module.
-        LicenseUri = 'https://github.com/mehmetseckin/security-protocol-setter-powershell/LICENSE'
+        LicenseUri = 'https://github.com/mehmetseckin/security-protocol-setter-powershell/blob/master/LICENSE'
 
         # A URL to the main website for this project.
         ProjectUri = 'https://github.com/mehmetseckin/security-protocol-setter-powershell/'
