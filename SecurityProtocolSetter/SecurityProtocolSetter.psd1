@@ -104,7 +104,7 @@ PrivateData = @{
         ProjectUri = 'https://github.com/mehmetseckin/security-protocol-setter-powershell/'
 
         # A URL to an icon representing this module.
-        # IconUri = ''
+        IconUri = 'https://github.com/mehmetseckin/security-protocol-setter-powershell/raw/master/Assets/SecurityProtocolSetter-icon.png'
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
