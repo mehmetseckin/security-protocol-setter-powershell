@@ -1,3 +1,5 @@
+![SecurityProtocolSetter icon](./Assets/SecurityProtocolSetter-icon.png)
+
 # SecurityProtocolSetter
 
 [![Build Status](https://dev.azure.com/azuredevops-powershell/security-protocol-setter-powershell/_apis/build/status/security-protocol-setter-powershell-ci)](https://dev.azure.com/azuredevops-powershell/security-protocol-setter-powershell/_build/latest?definitionId=2)
